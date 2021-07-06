@@ -1,0 +1,53 @@
+th{
+padding: 30px 0 30px 0;
+}
+
+td{
+  padding: 30px 50px 25px 30px;
+    text-align: center;
+}
+.table {
+    font-family: sans-serif;
+    font-size: 15pt;
+    border-collapse: collapse;
+    width: 100%;
+}
+.btn {
+    text-decoration: none;
+    color: black;
+    background: white;
+    border: 2px solid black;
+    padding: 8px 20px 8px 20px;
+    border-radius: 7px;
+    transition: 0.4s;
+}
+
+.btn:hover {
+    color: white;
+    background: black;
+}
+
+tbody tr{
+    transition: 0.3s;
+}
+tbody tr:hover{
+    background: #d9d9d9;
+}
+
+thead tr{
+    background: #2f2e2e;
+    color: white;
+}
+.worker {
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 0 0 0 20px;
+}
+.worker h3{
+    margin-left: 10px;
+}
+
+.low-table td {
+    width: 50%;
+}
+

@@ -1,0 +1,57 @@
+.side-bar{
+    position: absolute;
+    width: 250px;
+    height: 100vh;
+    background: #f5f5f5;
+    top: 91px;
+    left: -270px;
+    border-right: 1px solid #d6d6d6;
+    padding: 5px;
+    transition: 0.3s;
+    margin: 0;
+    z-index: 5;
+}
+.toggle-btn{
+    position:absolute;
+    left: 285px;
+    top: 10px;
+    background: #fff;
+    width: 30px;
+    height: 30px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+.toggle-btn:hover{
+    transform: scale(1.1);
+    background: #000000;
+    color: #fff;
+}
+.active{
+    left: 0;
+}
+.unactive{
+    left: -210px;
+}
+.show-add-admin-btn{
+    margin: auto;
+    width: 200px;
+    color: #3d2501;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 5px;
+
+}
+.show-add-btn{
+    margin: auto;
+    width: 200px;
+    color: #3d2501;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
