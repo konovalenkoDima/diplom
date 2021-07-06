@@ -1,0 +1,167 @@
+.add-worker{
+    font-family: "montserrat", sans-serif;
+    position: absolute;
+    top: 91px;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(45deg, #F5F5F5, #EBF7FF);
+    z-index: 1;
+    display: none;
+    border: 1px solid #5d5858;
+    border-top: 0;
+    border-radius: 0 0 15px 15px;
+    transition: 0.5s;
+}
+.form{
+    top: 15%;
+    left: 30%;
+    width: 40%;
+    position: absolute;
+}
+.form-group{
+    width: 100%;
+}
+.form-group > input {
+    width: 45%;
+    margin: 10px 5px 0 5px;
+
+}
+.txtb{
+    /*display: block;*/
+    width: 200px;
+    box-sizing: border-box;
+    background: none;
+    border: 1px solid #292929;
+    padding: 10px 20px;
+    color: #000000;
+    outline: none;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 6px;
+    text-align: center;
+}
+.txtb:focus {
+    border-color: #2ca02c;
+}
+.add-btn{
+    width: 30%;
+    background: #2c3e50;
+    border: 2px solid #ebf7ff;
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 0 32% 0 32%;
+    margin-top: 10px;
+    transition: 0.4s;
+}
+.add-btn:hover{
+    background: #ebf7ff;
+    border-color: #2c3e50;
+    color: #2c3e50;
+}
+.active-form{
+    display: block;
+}
+.hide-add-btn{
+    color: #000;
+    top: 10px;
+    right: 15px;
+    cursor: pointer;
+    font-size: 24px;
+    opacity: .7;
+    width: 20px;
+    margin-left: 97%;
+}
+.worker{
+    margin: 0;
+    position: absolute;
+    left: 100px;
+    top: 170px;
+    width: 70%;
+}
+h1{
+    position: absolute;
+    top: 95px;
+    left: 120px;
+}
+.accordion{
+    background: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+
+    text-align: left;
+    border: 1px solid;
+    outline: none;
+    transition: 0.4s;
+
+}
+.accordion:hover {
+    background-color: #ccc;
+}
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+    border: 1px solid;
+}
+
+.edit, .delete{
+    padding: 5px 10px;
+    margin: 0 10px 4px 4px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background: #fff;
+    color: black;
+    transition: 0.5s;
+    text-decoration: none;
+    display: block;
+    width: 150px;
+    text-align: center;
+    float: left;
+    height: 32px;
+    cursor: pointer;
+}
+.edit:hover, .delete:hover{
+    color: white;
+    background: black;
+    border-color: white;
+}
+
+.table-appraisals{
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    float: right;
+    display: flex;
+    border-collapse: collapse;
+}
+.inf-cont{
+    float: left;
+    margin-right: 10px;
+}
+.control{
+    width: 400px;
+}
+.table-appraisals td{
+    padding: 5px;
+    border: 2px solid black;
+}
+.form-control{
+    margin-top: 90px;
+}
+
+.add-task .group{
+    width: 45%;
+    float: left;
+    margin-top: 10px;
+}
+.group input{
+    width: 100%;
+}
+
+.right{
+    margin-left: 20px;
+}

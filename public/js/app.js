@@ -355,6 +355,72 @@ eval("/* module decorator */ module = __webpack_require__.nmd(module);\nvar __WE
 
 /***/ }),
 
+/***/ "./resources/css/worker.css":
+/*!**********************************!*\
+  !*** ./resources/css/worker.css ***!
+  \**********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvY3NzL3dvcmtlci5jc3M/Y2VjYyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEiLCJmaWxlIjoiLi9yZXNvdXJjZXMvY3NzL3dvcmtlci5jc3MuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBleHRyYWN0ZWQgYnkgbWluaS1jc3MtZXh0cmFjdC1wbHVnaW5cbmV4cG9ydCB7fTsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./resources/css/worker.css\n");
+
+/***/ }),
+
+/***/ "./resources/css/edit.css":
+/*!********************************!*\
+  !*** ./resources/css/edit.css ***!
+  \********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvY3NzL2VkaXQuY3NzP2U5OTYiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBIiwiZmlsZSI6Ii4vcmVzb3VyY2VzL2Nzcy9lZGl0LmNzcy5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/css/edit.css\n");
+
+/***/ }),
+
+/***/ "./resources/css/edit-task.css":
+/*!*************************************!*\
+  !*** ./resources/css/edit-task.css ***!
+  \*************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvY3NzL2VkaXQtdGFzay5jc3M/ZjdmMiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEiLCJmaWxlIjoiLi9yZXNvdXJjZXMvY3NzL2VkaXQtdGFzay5jc3MuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBleHRyYWN0ZWQgYnkgbWluaS1jc3MtZXh0cmFjdC1wbHVnaW5cbmV4cG9ydCB7fTsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./resources/css/edit-task.css\n");
+
+/***/ }),
+
+/***/ "./resources/css/welcome.css":
+/*!***********************************!*\
+  !*** ./resources/css/welcome.css ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvY3NzL3dlbGNvbWUuY3NzPzg2NWYiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBIiwiZmlsZSI6Ii4vcmVzb3VyY2VzL2Nzcy93ZWxjb21lLmNzcy5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/css/welcome.css\n");
+
+/***/ }),
+
+/***/ "./resources/css/form-project.css":
+/*!****************************************!*\
+  !*** ./resources/css/form-project.css ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvY3NzL2Zvcm0tcHJvamVjdC5jc3M/MDk4NCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEiLCJmaWxlIjoiLi9yZXNvdXJjZXMvY3NzL2Zvcm0tcHJvamVjdC5jc3MuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBleHRyYWN0ZWQgYnkgbWluaS1jc3MtZXh0cmFjdC1wbHVnaW5cbmV4cG9ydCB7fTsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./resources/css/form-project.css\n");
+
+/***/ }),
+
+/***/ "./resources/css/project.css":
+/*!***********************************!*\
+  !*** ./resources/css/project.css ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvY3NzL3Byb2plY3QuY3NzP2NhZDYiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBIiwiZmlsZSI6Ii4vcmVzb3VyY2VzL2Nzcy9wcm9qZWN0LmNzcy5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/css/project.css\n");
+
+/***/ }),
+
 /***/ "./resources/css/app.css":
 /*!*******************************!*\
   !*** ./resources/css/app.css ***!
@@ -385,6 +451,28 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvY3NzL2hlYWRlci5jc3M/ZTg4NiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEiLCJmaWxlIjoiLi9yZXNvdXJjZXMvY3NzL2hlYWRlci5jc3MuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBleHRyYWN0ZWQgYnkgbWluaS1jc3MtZXh0cmFjdC1wbHVnaW5cbmV4cG9ydCB7fTsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./resources/css/header.css\n");
+
+/***/ }),
+
+/***/ "./resources/css/aside.css":
+/*!*********************************!*\
+  !*** ./resources/css/aside.css ***!
+  \*********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvY3NzL2FzaWRlLmNzcz8zMzI2Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSIsImZpbGUiOiIuL3Jlc291cmNlcy9jc3MvYXNpZGUuY3NzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8gZXh0cmFjdGVkIGJ5IG1pbmktY3NzLWV4dHJhY3QtcGx1Z2luXG5leHBvcnQge307Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/css/aside.css\n");
+
+/***/ }),
+
+/***/ "./resources/css/form_add.css":
+/*!************************************!*\
+  !*** ./resources/css/form_add.css ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvY3NzL2Zvcm1fYWRkLmNzcz9hM2Y4Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSIsImZpbGUiOiIuL3Jlc291cmNlcy9jc3MvZm9ybV9hZGQuY3NzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8gZXh0cmFjdGVkIGJ5IG1pbmktY3NzLWV4dHJhY3QtcGx1Z2luXG5leHBvcnQge307Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/css/form_add.css\n");
 
 /***/ }),
 
@@ -531,9 +619,17 @@ eval("// shim for using process in browser\nvar process = module.exports = {};\n
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
 /******/ 			"/js/app": 0,
+/******/ 			"css/form_add": 0,
+/******/ 			"css/aside": 0,
 /******/ 			"css/header": 0,
 /******/ 			"css/auth": 0,
-/******/ 			"css/app": 0
+/******/ 			"css/app": 0,
+/******/ 			"css/project": 0,
+/******/ 			"css/form-project": 0,
+/******/ 			"css/welcome": 0,
+/******/ 			"css/edit-task": 0,
+/******/ 			"css/edit": 0,
+/******/ 			"css/worker": 0
 /******/ 		};
 /******/ 		
 /******/ 		// no chunk on demand loading
@@ -581,10 +677,18 @@ eval("// shim for using process in browser\nvar process = module.exports = {};\n
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	__webpack_require__.O(undefined, ["css/header","css/auth","css/app"], () => (__webpack_require__("./resources/js/app.js")))
-/******/ 	__webpack_require__.O(undefined, ["css/header","css/auth","css/app"], () => (__webpack_require__("./resources/css/app.css")))
-/******/ 	__webpack_require__.O(undefined, ["css/header","css/auth","css/app"], () => (__webpack_require__("./resources/css/auth.css")))
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/header","css/auth","css/app"], () => (__webpack_require__("./resources/css/header.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/js/app.js")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/app.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/auth.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/header.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/aside.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/form_add.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/worker.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/edit.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/edit-task.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/welcome.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/form-project.css")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/form_add","css/aside","css/header","css/auth","css/app","css/project","css/form-project","css/welcome","css/edit-task","css/edit","css/worker"], () => (__webpack_require__("./resources/css/project.css")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()

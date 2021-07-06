@@ -1,6 +1,18 @@
 {
     "/js/app.js": "/js/app.js",
+    "/js/show-hide-form.js": "/js/show-hide-form.js",
+    "/js/s-h-task.js": "/js/s-h-task.js",
+    "/js/accordion.js": "/js/accordion.js",
+    "/js/detail-project.js": "/js/detail-project.js",
+    "/css/form_add.css": "/css/form_add.css",
+    "/css/aside.css": "/css/aside.css",
     "/css/header.css": "/css/header.css",
     "/css/auth.css": "/css/auth.css",
-    "/css/app.css": "/css/app.css"
+    "/css/app.css": "/css/app.css",
+    "/css/project.css": "/css/project.css",
+    "/css/form-project.css": "/css/form-project.css",
+    "/css/welcome.css": "/css/welcome.css",
+    "/css/edit-task.css": "/css/edit-task.css",
+    "/css/edit.css": "/css/edit.css",
+    "/css/worker.css": "/css/worker.css"
 }

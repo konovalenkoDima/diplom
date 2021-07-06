@@ -10,10 +10,9 @@
             <nav class="navigation-menu">
                 <a href="{{route('home')}}"><i class="fas fa-home home"></i>Главная</a>
                 <a href="{{route('workers')}}"><i class="fas fa-users team"></i>Работники</a>
-                <a href="#"><i class="fas fa-tasks tasks"></i>Задания</a>
-                <a href="#"><i class="fab fa-buffer works"></i>Проекты</a>
+                <a href="{{route('tasks.index')}}"><i class="fas fa-tasks tasks"></i>Задания</a>
+                <a href="{{route('project')}}"><i class="fab fa-buffer works"></i>Проекты</a>
             </nav>
-
     </div>
 </header>
 <script type="text/javascript">
